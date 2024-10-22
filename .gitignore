@@ -1,0 +1,4 @@
+/gin_api/tmp
+/gin_api/go.sum
+/react/node_modules
+/react/package-lock.json
